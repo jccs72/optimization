@@ -1,1 +1,1 @@
-# optimization
+Este projeto implementa vários Algoritmo Genético para resolver o Traveling Sales Problem (TSP). Os algoritmos têm como objectivo otimizar uma rota entre várias cidades (10), minimizando a distância total percorrida.
